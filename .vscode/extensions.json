@@ -1,0 +1,7 @@
+{
+	"recommendations": ["Vue.volar", "Vue.vscode-typescript-vue-plugin"],
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": true
+	},
+	"editor.formatOnSave": true
+}
