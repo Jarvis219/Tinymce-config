@@ -1,7 +1,7 @@
 <template>
 	<main>
 		<div id="app">
-			<editor
+			<Editor
 				v-model="content"
 				:api-key="key"
 				:init="{
